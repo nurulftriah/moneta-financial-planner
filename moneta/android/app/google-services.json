@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "466320790222",
+    "project_id": "moneta-a9041",
+    "storage_bucket": "moneta-a9041.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466320790222:android:1e767778508eb015d5369f",
+        "android_client_info": {
+          "package_name": "com.pam.moneta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466320790222-k4a0mh7tcmkf1vncatlhsvmmtmid0olc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pam.moneta",
+            "certificate_hash": "5e154c4959115823228baa92663e7a3ad2fe544c"
+          }
+        },
+        {
+          "client_id": "466320790222-jpb5k1d1uc65v1r5c5htjfpplbq3ce4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQTHHb1Y2oIbBV9AF0f_sQsJroc2lJhSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466320790222-jpb5k1d1uc65v1r5c5htjfpplbq3ce4l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466320790222-3189cfahkbvtac89kge3e35t37far4tc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moneyAssistant2608"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
